@@ -9,7 +9,7 @@ const Login = () => {
         <p className="py-2">
           Non hai un'account?{" "}
           <Link to="/Signup" className="underline">
-            Iscriviti
+            Iscriviti qui
           </Link>
         </p>
       </div>
